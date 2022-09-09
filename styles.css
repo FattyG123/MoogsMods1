@@ -12,7 +12,14 @@
             transform: translate(-50%, -50%);
           }
   
-  
+
+
+          .footer {
+            text-align: center;
+            padding: 3px;
+            background-color: DarkSalmon;
+            color: white;
+          }
   .container {
     position: relative;
     text-align: center;
