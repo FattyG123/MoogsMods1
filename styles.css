@@ -26,6 +26,9 @@
     color: white;
   }
   
+  body { padding: 0; margin: 0; }
+ 
+ 
   .centered {
     position: absolute;
     top: 50%;
