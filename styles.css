@@ -48,9 +48,9 @@
   
   .topnav img{
       display: inline;
-      float: right;
+      float: left;
       padding: 10px 10px;
-      height: 100px;
+      height: 200px;
       width: 200px;
     }
   
